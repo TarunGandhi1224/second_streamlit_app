@@ -1,0 +1,5 @@
+# requirements.txt
+snowflake-connector-python==2.7.9
+streamlit
+pandas
+numpy
