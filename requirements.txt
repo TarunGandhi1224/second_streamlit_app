@@ -1,5 +1,4 @@
 # requirements.txt
-browser.gatherUsageStats= FALSE
 snowflake-connector-python==2.7.9
 pip=1.0.1
 streamlit
