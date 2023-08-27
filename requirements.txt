@@ -1,6 +1,6 @@
 # requirements.txt
 snowflake-connector-python==2.7.9
-pip=1.0.1
+pip=23.2.1
 streamlit
 pandas
 numpy
